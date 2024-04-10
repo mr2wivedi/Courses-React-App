@@ -1,23 +1,23 @@
 export const filterData =[
     {
         id:"1",
-        title:"ALL",
+        title:"All",
     },
     {
         id:"2",
-        title:"DEVELOPEMENT",
+        title:"Development",
     },
     {
         id:"3",
-        title:"DESIGN",
+        title:"Design",
     },
     {
         id:"4",
-        title:"BUSINESS",
+        title:"Business",
     },
     {
         id:"5",
-        title:"LIFESTYLE",
+        title:"Lifestyle",
     },
 ];
 
